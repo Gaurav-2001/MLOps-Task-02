@@ -1,5 +1,6 @@
 # ***GitHub GitBash Jenkins and Docker Integration***
 
+![](./Screenshots/front.png)
 ### Task Details:
 1. Create container image that’s has Jenkins installed using dockerfile
 
