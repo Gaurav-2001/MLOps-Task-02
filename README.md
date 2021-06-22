@@ -15,7 +15,7 @@
 6. Job 3 : Test your app if it is working or not if app is not working , then send email to developer with about the error
 
 ### Process to push to git hub:
-* we have discussed this process in detail in my previous blog: [here](https://www.linkedin.com/pulse/task-1-github-jenkins-docker-integration-gaurav-pagare/?trackingId=xTY%2FiTdXQs%2BPSl9lcNkGlw%3D%3D)
+* we have discussed this process in detail in my previous blog: [here](https://github.com/Gaurav-2001/MLOps-Task-01)
 
 so, here I am sharing these screenshots
 
